@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/widassahil/IdeaProjects/sparksLearning/src/main/scala/Practice.scala:4:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mval acc=new Practice[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/widassahil/IdeaProjects/sparksLearning/src/main/scala/Practice.scala:5:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0macc.sum=10;[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
